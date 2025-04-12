@@ -1,0 +1,1 @@
+A biblioteca adicionada .h aqui não tem usos especiais e nem o main, em teoria é só colocar para rodar e testar os códigos, a maioria pede uma entrada do usuario para garantir que estão funcionando corretamente, com exceção de poucas atividades prédefinidas.
